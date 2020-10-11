@@ -1,0 +1,3 @@
+block.ppm
+gray_blur_block.ppm
+3

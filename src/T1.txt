@@ -1,0 +1,3 @@
+house.ppm
+gray_house.ppm
+1

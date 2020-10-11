@@ -1,0 +1,3 @@
+house.ppm
+gray_blur_house.ppm
+3
