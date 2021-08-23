@@ -12,4 +12,13 @@ This app uses statically-linked library , and has two features, blurring ppm ima
 ```
 	https://github.com/TausifIqbal/Image_convertor 
 ```
+### To build app 
+```
+	make 
+```
+
+### To test 
+```
+	make T1
+```
 
